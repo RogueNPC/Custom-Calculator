@@ -1,4 +1,4 @@
-#surface area calculator
+#rectangular prism surface area and volume calculator
 
 #asking the user to input their variables
 length = int(input('Input variable length: '))
